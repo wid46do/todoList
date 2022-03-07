@@ -1,0 +1,9 @@
+.checked {
+    text-decoration: line-through;
+}
+
+li {
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
